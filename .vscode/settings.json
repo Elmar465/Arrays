@@ -1,0 +1,17 @@
+{
+    "files.associations": {
+        "ostream": "cpp",
+        "xutility": "cpp",
+        "atomic": "cpp",
+        "system_error": "cpp",
+        "tuple": "cpp",
+        "type_traits": "cpp",
+        "typeinfo": "cpp",
+        "utility": "cpp",
+        "xlocale": "cpp",
+        "xmemory": "cpp",
+        "xstddef": "cpp",
+        "xstring": "cpp",
+        "xtr1common": "cpp"
+    }
+}
